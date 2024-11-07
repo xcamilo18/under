@@ -50,7 +50,7 @@
                 <!-- Begin Page Content -->
                 <div class="container-fluid" style=" left: 5%; position: relative;">
                     <br>
-                    <h1 class="h4 text-gray-900 mb-4" style=" left: 35%; position: relative;">Programación 1 </h1>
+                    <h1 class="h4 text-gray-900 mb-4" style=" left: 25%; position: relative;">Algebra Líneal</h1>
                     <div class="row">
                         <div class="col-6">
                             <br>
@@ -232,6 +232,7 @@
                     </span>
                     <span class="text">Guardar</span>
                 </a> 
+                
                 <!-- /.container-fluid -->
 
             </div>
